@@ -1,0 +1,2 @@
+,traffic,inter_num,traffic_volume,ratio,min_queue_length,min_queue_length_round,min_duration,min_duration_round,final_duration,final_duration_std,convergence_1.2,convergence_1.1,nan_count,min_duration2
+0,"['anon_4_4_hangzhou_real', '_06_30_12_27_01']",anon,hangzhou,real.json,1.25,48,inf,0,288.91,1.31,8,10,0,
